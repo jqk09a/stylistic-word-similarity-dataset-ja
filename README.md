@@ -1,4 +1,4 @@
-# Stylistic Word Similarity Dataset (ja)
+# Stylistic Word Similarity Dataset (Japanese)
 Our paper titled "Unsupervised Learning of Style-sensitive Word Vectors" introduced a novel task to predict lexical stylistic similarity for evaluation of word embeddings and created a benchmark dataset for this task.
 The project page for this work is [here](https://jqk09a.github.io/style-sensitive-word-vectors/).
 
